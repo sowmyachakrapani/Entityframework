@@ -1,0 +1,6 @@
+Entity Framework:
+DB programming by entity model.
+here the framework creates the namespace and classes which correspond to each database and table and member functions for the various db operations are also created.
+data->ado.net entity data model->generate from database.
+This works for sql server as well as ms access basically for whatever you give in connection string.
+SingleorDefault means it could return a single value or a default value

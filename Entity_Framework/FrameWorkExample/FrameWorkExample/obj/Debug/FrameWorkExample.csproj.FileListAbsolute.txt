@@ -1,0 +1,5 @@
+c:\documents and settings\torus-1\my documents\visual studio 2010\Projects\FrameWorkExample\FrameWorkExample\bin\FrameWorkExample.dll
+c:\documents and settings\torus-1\my documents\visual studio 2010\Projects\FrameWorkExample\FrameWorkExample\bin\FrameWorkExample.pdb
+c:\documents and settings\torus-1\my documents\visual studio 2010\Projects\FrameWorkExample\FrameWorkExample\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\torus-1\my documents\visual studio 2010\Projects\FrameWorkExample\FrameWorkExample\obj\Debug\FrameWorkExample.dll
+c:\documents and settings\torus-1\my documents\visual studio 2010\Projects\FrameWorkExample\FrameWorkExample\obj\Debug\FrameWorkExample.pdb

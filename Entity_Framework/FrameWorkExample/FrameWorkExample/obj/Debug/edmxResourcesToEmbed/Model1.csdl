@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbCompanyModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="DbCompanyEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Emps" EntityType="DbCompanyModel.Emp" />
+  </EntityContainer>
+  <EntityType Name="Emp">
+    <Key>
+      <PropertyRef Name="Empno" />
+    </Key>
+    <Property Name="Empno" Type="Int16" Nullable="false" />
+    <Property Name="Ename" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Job" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Salary" Type="Int16" />
+  </EntityType>
+</Schema>
